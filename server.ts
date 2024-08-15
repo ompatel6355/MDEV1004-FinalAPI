@@ -6,7 +6,7 @@
 
 import app from './Server/Config/app';
 import debug from 'debug';
-debug('midterm:server');
+debug('final:server');
 import http from 'http';
 import { HttpError } from 'http-errors';
 import { AddressInfo } from 'net';
